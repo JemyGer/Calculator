@@ -20,5 +20,9 @@ class Calculate {
         /*Multiplication*/
         Multiplication myObj3 = new Multiplication();
         System.out.println("Das Ergebnis ist: " + myObj3.sum);
+
+        /*Division*/
+        Division myObj4 = new Division();
+        System.out.println("Das Ergebnis ist: " + myObj4.sum);
     }
 }

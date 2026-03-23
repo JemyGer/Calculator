@@ -4,7 +4,7 @@
 ## Introducing about the Product:  
 > Version 0.1  
 > console Calculator introduce the basics what's includes and sum:  
-> ( + = addition, - = subtraction, * = multiplication and / = devide )
+> ( + = addition, - = subtraction, * = multiplication and / = divide )
 ---
 ### AboutMe
 Hi,  
