@@ -1,4 +1,6 @@
-/*Subtrahiert 2 Zahlen*/
+/* Subtrahiert 2 Zahlen.
+ * die Zahlen können beliebig geändert werden, und die konsole gibt das
+ * Ergebnis dann aus in dem die beiden Zahlen x und y subtrahiert werden */
 package v01;
 
 public class Subtraction {

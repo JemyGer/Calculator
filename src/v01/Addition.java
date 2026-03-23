@@ -1,5 +1,4 @@
-/*
-* Addiert 2 Zahlen.
+/* Addiert 2 Zahlen.
 * die Zahlen können beliebig geändert werden, und die konsole gibt das
 * Ergebnis dann aus in dem die beiden Zahlen x und y addiert werden */
 package v01;

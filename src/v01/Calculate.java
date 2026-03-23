@@ -16,5 +16,9 @@ class Calculate {
         /*Subtraction*/
         Subtraction myObj2 = new Subtraction();
         System.out.println("Das Ergebnis ist: " + myObj2.sum);
+
+        /*Multiplication*/
+        Multiplication myObj3 = new Multiplication();
+        System.out.println("Das Ergebnis ist: " + myObj3.sum);
     }
 }
