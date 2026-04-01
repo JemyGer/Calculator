@@ -7,7 +7,7 @@
 
 package v01;
 
-class Calculate {
+class Calculator_v01_start {
     static void main(String[] args) {
         /*Addition*/
        Addition myObj = new Addition(); // erstellt ein neues objekt

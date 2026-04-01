@@ -15,9 +15,11 @@ public class Calculator_v02_start extends Application {
         primaryStage.setTitle("Calculator_V02");
         primaryStage.setScene(scene);
         primaryStage.show();
+
     }
 
     public static void main(String[] args) {
         launch(args);
+
     }
 }
