@@ -1,0 +1,23 @@
+/*packages*/
+package v02;
+/*imports*/
+
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.scene.control.Label;
+import javafx.stage.Stage;
+
+public class Calculator_v02 extends Application {
+    @Override
+    public void start(Stage primaryStage) {
+        Label label = new Label ("Hello, JavaFX!");
+        Scene scene = new Scene(label, 400, 200);
+        primaryStage.setTitle("Calculator_V02");
+        primaryStage.setScene(scene);
+        primaryStage.show();
+    }
+
+    public static void main(String[] args) {
+        launch(args);
+    }
+}
