@@ -8,7 +8,7 @@
 package v01;
 
 class Calculator_v01_start {
-    static void main(String[] args) {
+   public static void main(String[] args) {
         /*Addition*/
        Addition myObj = new Addition(); // erstellt ein neues objekt
        System.out.println("Das Ergebnis ist: " + myObj.sum);   // gibt das objekt aus das zugewiesen wurde

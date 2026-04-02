@@ -10,12 +10,11 @@ import javafx.stage.Stage;
 public class Calculator_v02_start extends Application {
     @Override
     public void start(Stage primaryStage) {
-        Label label = new Label ("Hello, JavaFX!");
-        Scene scene = new Scene(label, 400, 200);
+        Label label = new Label ("c.dincer.javadeveloper");
+        Scene scene = new Scene(label, 500, 500);
         primaryStage.setTitle("Calculator_V02");
         primaryStage.setScene(scene);
         primaryStage.show();
-
     }
 
     public static void main(String[] args) {
