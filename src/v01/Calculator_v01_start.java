@@ -1,6 +1,7 @@
 /*
  * CalculatorV01
  * @ C. Dincer
+ * für Konsolen berechnung
  * implementierung von Grundrechen-Operatoren
  * Addition, Subtraktion, Multiplikation und Division
  * Ausgabe durch Konsole*/
