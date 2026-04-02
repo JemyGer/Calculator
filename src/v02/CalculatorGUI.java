@@ -7,7 +7,8 @@ import javafx.scene.Scene;
 import javafx.scene.control.Label;
 import javafx.stage.Stage;
 
-public class CalculatorGUI extends Application {
+ public class CalculatorGUI extends Application {
+
     @Override
     public void start(Stage primaryStage) {
         Label label = new Label("c.dincer.javadeveloper");

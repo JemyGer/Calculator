@@ -2,10 +2,10 @@
 package v02;
 
 /* imports */
-import static javafx.application.Application.launch;
+import javafx.application.Application;
 
 public class Launcher {
     public static void main(String[] args) {
-        launch(args);
+        Application.launch(CalculatorGUI.class,args);
     }
 }
