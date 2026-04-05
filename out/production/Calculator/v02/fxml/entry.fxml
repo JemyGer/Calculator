@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.effect.Glow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <ImageView fx:id="EntryPoint" fitHeight="400.0" fitWidth="600.0" pickOnBounds="true" preserveRatio="true" AnchorPane.topAnchor="0.0">
+            <image>
+                <Image url="@../pictures/entrypoint.png" />
+            </image>
+            <effect>
+                <Glow />
+            </effect>
+        </ImageView>
+        <Button fx:id="Portfolio" layoutX="95.0" layoutY="150.0" mnemonicParsing="false" prefHeight="60.0" prefWidth="425.0" style="-fx-background-color: transparaent; -fx-border-color: transparent;" textAlignment="CENTER">
+            <font>
+                <Font name="Cambria" size="18.0" />
+            </font>
+        </Button>
+    </children>
+</AnchorPane>
